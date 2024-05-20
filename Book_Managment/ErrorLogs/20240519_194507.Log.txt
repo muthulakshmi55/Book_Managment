@@ -1,0 +1,3 @@
+Message : Trying to pass a table-valued parameter with 19 column(s) where the corresponding user-defined table type requires 12 column(s).
+Inner Exception : 
+ADODataFunction

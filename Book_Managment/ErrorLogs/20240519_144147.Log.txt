@@ -1,0 +1,3 @@
+Message : Globalization Invariant Mode is not supported.
+Inner Exception : 
+ADODataFunction
